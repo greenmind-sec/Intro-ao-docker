@@ -137,7 +137,9 @@ Mais pra frente vamos aprender como criar nosso arquivo Dockerfile e como podemo
 O docker compose é uma ferramenta para nos auxiliar na criação de múltiplos containers Docker, com elas podemos configurar todos os parâmetros necessários para executar um container a partir de um arquivo de definição.
 
 Vamos imaginar que nesse arquivo de execução podemos selecionar definir determinados serviços , podemos setar portas abertas, variáveis de ambiente, volumes, configurar redes e muitas possibilidade que não conseguimos apenas com o Dockerfile.
-## ConclusãoNesse artigo compartilhamos um pouco do que é o Docker, vantagens do uso, como desenvolvedores e sysadmin podem ser beneficiados com o uso dessa incrível tecnologia.
+
+## Conclusão
+Nesse artigo compartilhamos um pouco do que é o Docker, vantagens do uso, como desenvolvedores e sysadmin podem ser beneficiados com o uso dessa incrível tecnologia.
 
 Nos proximos passos vamos explicar como podemos instalar o Docker, criar nosso arquivo Dockerfile, instalar o docker-compose e muitas coisas. Esse é só a **parte 1** de **3 partes**.
 
