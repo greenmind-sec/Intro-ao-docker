@@ -77,15 +77,15 @@ Em toda maquina virtual tem um sistema operacional instalado , deixando o projet
 
 Diferente do Docker a virtualização precisa de um sistema operacional e podemos ver a imagem abaixo para entender melhor.
 
-!()[images/PARAVIRTUALIZACAO-1.png]
-!()[images/VIRTUALIZACAO-1.png]
+![](images/PARAVIRTUALIZACAO-1.png)
+![](images/VIRTUALIZACAO-1.png)
 
 > A virtualização também pode virar um processo rápido e seguro com o uso de **Vagrant**.
 
 ### Como funciona com o uso de containers
 Já com o uso de containers podemos ver que só é necessário obter os binários e as bibliotecas.
 
-!()[images/CONTAINERS-1.png]
+![](images/CONTAINERS-1.png)
 
 O Docker usa um modelo de isolamento utilizado é o virtualização a nível de sistema operacional, esse método de virtualização onde o kernel do sistema operacional permite o processamento de múltiplos processos e esses processos são executados isoladamente no mesmo host.
 
